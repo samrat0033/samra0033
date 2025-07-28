@@ -1,7 +1,7 @@
- <h1 align="center">Hi 👋, I'm Akanksha Ujjain</h1>
+ <h1 align="center">Hi 👋, I'm Samrat Ghorui</h1>
 <h3 align="center">"Exploring the Depths of Machine Learning: My Journey"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshaujjainrajput&label=Profile%20views&color=0e75b6&style=flat" alt="akankshaujjainrajput" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat0033&label=Profile%20views&color=0e75b6&style=flat" alt="samrat0033" /> </p>
 
 - 🔭 I’m currently working on [AI Voice Assistant](https://colab.research.google.com/drive/1hLRhO7zJypUDenw5dh3KzNkpCG7C55nR?usp=drive_link)
 
