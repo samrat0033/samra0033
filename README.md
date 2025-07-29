@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m an aspiring Data Scientist and Software Developer passionate about solving real-world problems through data, algorithms, and innovative tech. With a background in both **Information Technology** and **Electrical Engineering**, I bring a unique analytical mindset to my work.
+ML Engineer skilled in designing and deploying production-grade models using Python, scikit-learn, PyTorch, and TensorFlow. Experience in prompt engineering, A/B testing, and containerizing solutions with Docker and Kubernetes. Proven track record in delivering AI-driven optimizations and communicating insights to both technical and business stakeholders.
 
 I love working on projects involving:
 - 🧠 Machine Learning & AI
