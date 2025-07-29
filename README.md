@@ -15,6 +15,88 @@
 
 - ⚡ Fun fact **I'm a passionate advocate for using technology to drive positive change in society!**
 
+
+
+
+
+
+
+# 👋 Hi there, I'm Samrat Ghorui!
+
+🎓 B.Tech in Information Technology | 💡 Data Science Enthusiast | 🔍 AI/ML Explorer  
+📍 Based in Amta, Howrah, India  
+📬 Email: sg.samratghorui@gmail.com | 📱 +91 7001024533
+
+---
+
+## 🚀 About Me
+
+I’m an aspiring Data Scientist and Software Developer passionate about solving real-world problems through data, algorithms, and innovative tech. With a background in both **Information Technology** and **Electrical Engineering**, I bring a unique analytical mindset to my work.
+
+I love working on projects involving:
+- 🧠 Machine Learning & AI
+- 📊 Data Analysis & Visualization
+- 🌐 Backend Development with FastAPI & Flask
+- 💬 Natural Language Processing
+- 🛠️ Automation and Integrations (e.g., GitHub webhooks, APIs)
+
+Currently, I’m pursuing my B.Tech at **Heritage Institute of Technology** and actively upskilling through real-life projects, internships, and open-source contributions.
+
+---
+
+## 💼 Experience
+
+### 🔸 Data Science & Analytics Intern – BCG (Boston Consulting Group) *(Aug 2024 – Dec 2024)*
+- Developed a novel alpha extraction method, increasing investment return by **135%**
+- Worked on large-scale structured and unstructured datasets using statistical analysis, ML, and NLP
+- Delivered actionable insights to inform strategic business decisions
+
+### 🔸 AI/ML Intern – Shell
+- Collaborated on enterprise-grade ML applications for energy optimization
+- Contributed to model development, testing, and performance evaluation
+
+### 🔸 Software Developer – Group Fit Technology *(Present)*
+- Working on backend development and deployment of scalable APIs
+- Integrated real-time data pipelines and optimized MongoDB queries
+
+---
+
+## 🧠 Projects
+
+### 🩺 **Lung Cancer Prediction Model**
+Achieved **98% accuracy** using a Random Forest classifier by combining demographics and medical imaging data.
+
+### 😊 **Emotion Detection with CNN**
+Built a text classification model using NLP + CNN, deployed via a user-friendly GUI, and achieved **61% accuracy**.
+
+### 🎬 **Movie Recommendation System**
+Implemented vectorization + NLP to recommend movies with **95% detection accuracy** and minimized false positives.
+
+### 🤖 **Medical Bot using NLP**
+Developed a chatbot trained on a medical PDF knowledge base to assist with medicine-related queries using RAG techniques.
+
+### 🔗 **GitHub Webhook Tracker**
+A real-time dashboard tracking GitHub Push, PR, and Merge events using FastAPI + MongoDB + JavaScript frontend.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, HTML/CSS, SQL  
+**Frameworks:** FastAPI, Flask, Scikit-learn, Pandas, NumPy, Matplotlib  
+**Tools & Platforms:** Git, MongoDB, Docker, Postman, VS Code, Jupyter, Hugging Face, Google Colab  
+**Cloud & DevOps:** Render, Railway, GitHub Actions (learning AWS basics)
+
+---
+
+## 🌱 Currently Learning
+- LLMs and Prompt Engineering
+- Deep Learning and Transformers
+- Docker + CI/CD pipelines
+- Advanced SQL and ETL pipelines
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Samrat Ghorui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samrat Ghorui" height="30" width="40" /></a>
@@ -30,3 +112,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrat0033&show_icons=true&locale=en" alt="samrat0033" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrat0033&" alt="samrat0033" /></p>
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samrat-ghorui-859144296)
+- 💻 [GitHub](https://github.com/samrat0033)
+- 📧 sg.samratghorui@gmail.com
+
+Thanks for visiting my profile! Let's build something amazing together 🚀
